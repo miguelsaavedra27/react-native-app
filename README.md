@@ -1,66 +1,53 @@
 # Intro to React Native
 
-This project is based on the "React Native Course – Android and iOS App Development" video by FreeCodeCamp.org on YouTube.
+This project is based on the "📘 CURSO REACT NATIVE desde CERO - Creamos una app paso a paso" video by midudev.
 
-**Youtube Tutorial**: [React Native Course - Android and iOS App Development](https://www.youtube.com/watch?v=obH0Po_RdWk&pp=ygUMcmVhY3QgbmF0aXZl)
+**Youtube Tutorial**: [React Native Course - Android and iOS App Development](https://www.youtube.com/watch?v=qi87b6VcIHY)
 
 ## Table of Contents
 
-* 0:00:00 Introduction
-* 0:01:25 What is React Native?
-* 0:03:45 Expo
-* 0:04:22 Setup with Expo
-* 0:06:17 Setting up a custom app 
-* 0:10:17 Setting up Android Studio 
-* 0:12:03 The directory structure 
-* 0:12:42 Setting up linting 
-* 0:14:33 Setting up Prettier 
-* 0:16:35 Debugging 
-* 0:18:17 Native components 
-* 0:19:00 Core components 
-* 0:20:17 JSX 
-* 0:21:29 Working with components 
-* 0:21:57 What are components 
-* 0:23:08 Creating our first component 
-* 0:26:50 Styling basics 
-* 0:31:17 Layout props 
-* 0:32:37 The current weather screen 
-* 0:40:17 Adding icons to the screen 
-* 0:42:40 Components 
-* 0:46:01 Reviewing what we have learnt so far 
-* 0:48:52 Creating the upcoming weather component 
-* 0:52:17 Introducing lists 
-* 1:19:17 Implementing our list 
-* 1:09:10 Key extractors
-* 1:11:41 Other FlatList props
-* 1:15:01 Styling our FlatList
-* 1:19:23 Images
-* 1:22:31 Using an image in the upcoming weather component
-* 1:24:10 ImageBackground
-* 1:26:05 Props
-* 1:35:17 Refactoring what we have done so far
-* 1:43:04 Implementing the city screen
-* 2:00:17 Refactoring the city screen
-* 2:15:32 Refactoring the current weather screen
-* 2:26:25 Introducing Navigation
-* 2:34:37 Implementing tabs in our app
-* 2:40:02 Styling our tabs
-* 2:47:27 Extracting the tabs
-* 3:06:55 State
-* 3:15:07 The useState hook
-* 3:19:24 Hooks
-* 3:23:24 The useEffect hook
-* 3:32:05 Adding a loading state
-* 3:38:31 Using the open weather map api
-* 3:39:31 Getting the users location
-* 3:47:36 Seting up fetching the api data
-* 3:52:38 Fetching the Api data
-* 4:01:17 Making our own hook
-* 4:05:17 Passing the data to our components
-* 4:08:42 Updating current weather to use the data
-* 4:14:32 Updating the upcoming weather to use the data
-* 4:18:17 Installing Moment
-* 4:21:17 Updating the city component
-* 4:25:53 Creating the error screen
-* 4:31:42 Some last refactoring
-* 4:33:59 Bonus material
+00:00 Intro React-Native
+03:10 Expo
+05:10 Creando la app
+10:07 Configurando iOS simulator
+12:26 react-native-debugger
+15:40 Linter
+17:30 Text, View, Touchable
+25:00 StatusBar y expo-constants
+29:30 Mostrando los repositorios
+32:37 ScrollView y FlatList
+40:15 Desactivando reglas linter
+41:00 StyleSheet, theme y estilos
+54:38 FlexBox. Alineando texto y stats
+01:02:00 ParseThousands
+01:04:19 Estilando language
+01:07:05 alignSelf: flex-start
+01:08:10 BorderRadius y overflow
+01:08:40 Image. Mostrando repo image
+01:11:00 FlexBox. Mostrando image side by side
+01:18:20 MarginHorizontal y MarginVertical
+01:19:20 AppBar
+01:25:00 react-router-native
+01:28:30 Problemas con react-router-native
+01:29:30 Solucion: webpack-config
+01:34:50 Ruteando
+01:40:50 Scroll para las tabs
+01:49:00 Preguntas
+02:07:40 Inicio clase 2
+02:11:30 StatusBar
+02:14:25 Plarform.select
+02:26:00 Sign in con Formik
+02:40:25 Formik: useField
+02:45:15 Masking the password
+02:46:15 Preguntas
+02:50:30 Validacion de formulario
+02:57:40 Validación con yup
+03:04:00 Configurando el backend
+03:09:15 Queries a la REST API
+03:13:30 global.fetch y globalThis
+03:14:30 custom hook useRepositories
+03:17:50 Arreglando errores por localhost
+03:20:20 ApolloClient
+03:23:35 GraphQL
+03:26:45 Usando graphQL en el custom hook
+03:30:00 Preguntas
